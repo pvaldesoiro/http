@@ -1,4 +1,4 @@
-package http;
+package io.github.pvaldesoiro.http;
 
 import java.io.IOException;
 import java.net.URI;

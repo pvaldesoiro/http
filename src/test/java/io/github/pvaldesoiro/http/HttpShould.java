@@ -1,4 +1,4 @@
-package http;
+package io.github.pvaldesoiro.http;
 
 import org.junit.jupiter.api.Test;
 
